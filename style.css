@@ -1,0 +1,30 @@
+.logo-img{
+    height: 65px;
+    width: 100px;
+}
+.row{
+    width: 400px;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+.card{
+    border: 3px solid #e91f63;
+    border-radius: 10px;
+}
+.book-img{
+    height: 200px;
+    width: 500px;
+}
+#title{
+    font-family: 'Charmonman', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+#heading{
+    margin: 0px;
+}
+.carousel{
+    margin: -40px;
+}
+
+
